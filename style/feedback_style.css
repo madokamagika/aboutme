@@ -1,0 +1,10 @@
+#feedback{
+	width: 300px;
+	height: 400px;
+	background-color: #738830;
+	border-radius: 15px;
+}
+input{
+	border-radius: 5px;
+	height: 25px;
+}
